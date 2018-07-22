@@ -25,7 +25,11 @@ audio{
     opacity: 0.9;
 }
 audio:hover{
+    width: 200px;
     box-shadow: 0 0 1px 2px #999;
+    border-radius: 40px;
+    margin-left: -100px;
+    transition: all 0.5s;
 }
 /*容器*/
 
