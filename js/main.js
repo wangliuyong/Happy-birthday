@@ -2,7 +2,20 @@ var canvas = document.querySelector('#engines'),
   ctx = canvas.getContext('2d');
 var trailCanvas = document.querySelector("#trails"),
   trailCtx = trailCanvas.getContext('2d');
+//音乐
+audio.addEventListener("canplaythrough", function ({
 
+  //音频可流畅播放时，播放；PC上可以，移动端不行。
+  audio.play();
+document.addEventListener('touchstart', function () {
+
+  //增加一个touchstart交互事件，触屏后播放音乐
+  audio.play();
+  //播放音频后移除touchstart事件的当前匿名函数
+  document.removeEventListener('touchstart', arguments.callee, false);
+}, false);
+
+});
 function animLoop(render) {
   var running, lastFrame = +new Date;
   window.requestAnimFrame = (function() {
