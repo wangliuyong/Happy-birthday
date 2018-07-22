@@ -5,9 +5,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <link rel="stylesheet" href="./css/style.css">
-    <title>狗子生日快乐</title>
+    <title>狗儿生日快乐</title>
 </head>
 <body>
+
+    <canvas id="engines" width="600" height="600"></canvas>
+    <canvas id="trails" width="600" height="600"></canvas>
     <div class="container">
         <div class="piece-box">
             <div class="piece-box2">
@@ -20,8 +23,11 @@
             </div>
         </div>
     </div>
-    <audio controls="controls" autoplay="autoplay" loop>
-        <source src="./music/李森茂 - 生日快乐歌（吉他改编版）.mp3" type="audio/mpeg" />
+    <audio controls autoplay="autoplay" loop>
+        <source src="./music/李森茂 - 生日快乐歌（吉他改编版）.mp3" type="audio/mp3">
+        <p>Your browser doesn't support HTML5 audio. Here is a
     </audio>
+    <canvas id="c"></canvas>
+    <script src="./js/main.js"></script>
 </body>
 </html>
