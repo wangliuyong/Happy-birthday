@@ -20,17 +20,12 @@ body {
     position: fixed;
     bottom: 50px;
     left: 50%;
-    width: 80px;
-    border-radius: 10px;
-    opacity: 0.9;
-}
-#audios:hover{
     width: 180px;
     margin-left: -90px;
-    box-shadow: 0 0 2px 1px #333;
     border-radius: 40px;
-    transition: all 1s;
+    opacity: 0.9;
 }
+#audios:hover{box-shadow: 1 1 1px 2px #333;transition: all 0.3s;}
 /*cake*/
 
 /*容器*/
