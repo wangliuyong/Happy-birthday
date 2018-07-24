@@ -92,7 +92,7 @@ body {
 }
 
 .piece-1 {
-    background: url(https://img-blog.csdn.net/20180722084730743?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dhbmdfbGl1eW9uZw==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70);
+    background: url(../img/1.jpg);
     background-size: cover;
     -webkit-transform: rotateY(0deg) translateZ(173.2px);
     -ms-transform: rotateY(0deg) translateZ(173.2px);
@@ -111,7 +111,7 @@ body {
 }
 
 .piece-2 {
-    background: url(https://img-blog.csdn.net/20180722084752937?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dhbmdfbGl1eW9uZw==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70);
+    background: url(../img/2.jpg);
     background-size: cover;
     -webkit-transform: rotateY(60deg) translateZ(173.2px);
     -ms-transform: rotateY(60deg) translateZ(173.2px);
@@ -130,7 +130,7 @@ body {
 }
 
 .piece-3 {
-    background: url(https://img-blog.csdn.net/20180722084813138?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dhbmdfbGl1eW9uZw==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70);
+    background: url(../img/3.jpg);
     background-size: cover;
     -webkit-transform: rotateY(120deg) translateZ(173.2px);
     -ms-transform: rotateY(120deg) translateZ(173.2px);
@@ -149,7 +149,7 @@ body {
 }
 
 .piece-4 {
-    background: url(https://img-blog.csdn.net/20180722084825587?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dhbmdfbGl1eW9uZw==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70);
+    background: url(../img/4.jpg);
     background-size: cover;
     -webkit-transform: rotateY(180deg) translateZ(173.2px);
     -ms-transform: rotateY(180deg) translateZ(173.2px);
@@ -168,7 +168,7 @@ body {
 }
 
 .piece-5 {
-    background: url(https://img-blog.csdn.net/20180722084919839?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dhbmdfbGl1eW9uZw==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70);
+    background: url(../img/5.jpg);
     background-size: cover;
     -webkit-transform: rotateY(240deg) translateZ(173.2px);
     -ms-transform: rotateY(240deg) translateZ(173.2px);
@@ -187,7 +187,7 @@ body {
 }
 
 .piece-6 {
-    background: url(https://img-blog.csdn.net/20180722084854681?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dhbmdfbGl1eW9uZw==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70);
+    background: url(../img/6.jpg);
     background-size: cover;
     -webkit-transform: rotateY(300deg) translateZ(173.2px);
     -ms-transform: rotateY(300deg) translateZ(173.2px);
